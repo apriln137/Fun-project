@@ -1,0 +1,45 @@
+body {
+    color: #1a3300;
+    font-size: 20px;
+    font-family: Georgia;
+    font-weight: italic;
+    text-align: left;
+    margin: 50px;
+}
+.header {
+    color: #8f246b;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #b3ecff;
+}
+.footer {
+    text-align: right;
+}
+.content span {
+    font-weight: bold;
+    color: #990000;
+}
+#writer {
+    color: #ff3300;
+    text-align: right;
+    margin: 20px;   
+}
+img {
+    width: 400px;
+    height: 400px;
+    position: fixed;
+    top: 150px;
+    right: 75px;
+}
+.ref {
+    color: #ff33bb;
+    font-weight: italic;
+    font-family: 'Gill Sans';   
+    font-size: 17px;
+    background-color: #ffe6f7;
+    text-align: center;
+    border: 2px solid #cc008b;
+    margin: 20px;
+    padding: 20px;
+}
